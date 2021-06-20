@@ -6,6 +6,7 @@ A program to search for words in a dictionary, given a specific pattern. You hav
 
 ### Compile files
 cd WordSearch
+
 make
 
 ### The program takes the following commandline arguments
